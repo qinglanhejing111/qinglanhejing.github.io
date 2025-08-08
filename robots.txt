@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://<qinglanhejing111>.github.io/<qinglanhejing>/sitemap.xml
